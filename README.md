@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ulfasyabania/ulfasyabania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a volunteer English club teacher, helping students improve their English skills and confidence in a fun and engaging environment.
 - 🌱 I’m currently a participant in the Laskar Ai program, learning and honing my skills in artificial intelligence and machine learning.
 - 👯 I’m looking to collaborate on AI projects that can improve educational services, language learning, and community engagement.
